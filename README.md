@@ -1,5 +1,5 @@
 # Real-Estate-Price-Prediction-Project-
-I worked on Bengalore Property Dataset which I scraped from Kaggle.
+I worked on Bangalore Property Dataset which I scraped from Kaggle.
 The focus of this work was Web Scraping, Data Cleaning, Data Analysis, Model Building and Deployment.
 In this Project,I compare different types of Machine Learning Algorithms.
 1. Linear Regression.
